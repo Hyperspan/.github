@@ -1,4 +1,28 @@
-“HyperSpan” is a software as a service which can be used by many organizations or individual uses for developing and planning projects. It can be used to showcase any organization or an individual’s project achievements and allow them to post (blog, Image, videos, etc) publically. Organizations can use it to hire resources they require or any individual user who needs to find someone to help in their project.
- Users can create new projects and fill out some basic information regarding their project and list of their competitors will be shown. They can see the features they provide. Help users finalize their requirements and create user flows/flowcharts.
-When two or more individuals/organizations work collaboratively on any project, they will sign some agreement and contracts with “HyperSpan” platform and not directly with the other party.
-The end user will have to pay for using the platform after exceeding the free user limit or when any contract/agreement is signed.
+Hyperspan is an upcoming SaaS(Software as a Service) Product, which targets individuals and organisations wanting to speed up their Projects. 
+We at Hyperspan will welcome any developer who wants to join our team and contribute to the project.  
+
+The tech stack we are currently going with:
+- C#/.Net,
+- Redis Cache,
+- MySQL,
+- Mongo
+- Angular,
+- Self-Hosted Linux Server 
+- Docker
+- Nginx
+- Apache
+
+Anyone having expertise in the above technologies feel free to drop suggestions and tips(It will be highly appreciated).
+
+Do you have expertise in Managing Servers, Security, Networking, Data Science, AI, ML, or anything else, Please feel free to discuss. 
+
+There will be Web(__Currently working on__), Mobile, and Desktop Applications.
+
+The project should be launched within 3 years(2026), and the MVP(Minimal Viable Product) should be out in the next 6-9 months(2023-2024). 
+
+Note: The only thing to **keep in mind is not to disclose any Feature, Module, or any piece of code that you contribute. You will receive appreciation for the work you do when the product starts to make profits.**
+
+Thank you for showing interest.
+
+Regards Hyperspan,
+Email: developers.ramson@gmail.com
