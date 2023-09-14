@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Hyperspan/.github/assets/66792236/720fa85c-333b-44a3-a30d-e361f7f79191)
+![150px white-01](https://github.com/Hyperspan/.github/assets/66792236/e0a4b107-bd55-4fcd-a283-40004d3487f4)
 
 
 Hyperspan is an upcoming SaaS(Software as a Service) Product, which targets individuals and organisations wanting to speed up their Projects. 
