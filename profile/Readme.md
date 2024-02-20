@@ -2,7 +2,7 @@
 ![150px white-01](https://github.com/Hyperspan/.github/assets/66792236/e0a4b107-bd55-4fcd-a283-40004d3487f4)
 
 
-Hyperspan is an upcoming SaaS(Software as a Service) Product, which targets individuals and organisations wanting to speed up their Projects. 
+Hyperspan is an upcoming SaaS(Software as a Service) Product, which targets individuals and organizations wanting to speed up their Projects. 
 We at Hyperspan will welcome any developer who wants to join our team and contribute to the project.  
 
 The tech stack we are currently going with:
@@ -29,4 +29,4 @@ Note: The only thing to **keep in mind is not to disclose any Feature, Module, o
 Thank you for showing interest.
 
 Regards Hyperspan,
-Email: developers.ramson@gmail.com
+Email: info@ramson-developers.com
